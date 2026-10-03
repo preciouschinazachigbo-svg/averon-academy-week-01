@@ -1,21 +1,23 @@
 # Week 1 Reflection
 
-## 1. What did I learn this week?
+## What I Learned
 
-I learned that faults are hidden in plain sights .
+During Week 1, I learned the basics of software development and how developers use tools such as VS Code, Git, and GitHub.
 
-## 2. What was difficult for me?
+I also learned how to create a repository, track changes with Git, make commits, and push my work to GitHub.
 
-The most difficult thing for me was knowing the tools i needed  .
+## What I Found Difficult
 
-## 3. How did I solve the problem?
+Understanding Git commands and the difference between my local repository and GitHub was initially confusing.
 
-I solved it by finding out the root cause ,then researched how to make it better .
+## How I Solved It
 
-## 4. What do I still need help with?
+I followed the practical steps in the course and practiced each Git command in my terminal. This helped me understand the workflow better.
 
-I still need help with absolutely everything.
+## What I Still Need Help With
 
-## 5. What am I looking forward to learning next?
+I would like to become more confident with Git branching, merging, and working with GitHub repositories.
 
-I am looking forward to learning about coding and all i can do with it .
+## What I Am Looking Forward To
+
+I am looking forward to learning more about software development, building projects, and becoming more confident working as a developer.
